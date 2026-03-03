@@ -20,26 +20,67 @@
 
 ---
 
-```yaml
-name: Nuri Okumuş
-role: Software Engineering Student @ MSKÜ
-location: Muğla, Turkey
-internship: iOS Developer @ Teknasyon
-currently_building: IDP — Internal Developer Platform (K3s + ArgoCD)
-interests: [Mobile Apps, DevOps, Cloud, Open Source]
-daily_driver: Linux 🐧
-motto: "Ship it, then improve it."
+```dockerfile
+FROM human:latest
+
+LABEL maintainer="nuriokmus@gmail.com"
+LABEL version="22.0"
+
+WORKDIR /turkey/mugla
+
+RUN apt-get install -y \
+    flutter dart swift \
+    kubernetes docker argocd \
+    nodejs python git
+
+COPY ./ideas    /app/
+COPY ./skills   /app/
+COPY ./projects /app/
+
+ENV ROLE="Software Engineering Student @ MSKÜ" \
+    INTERNSHIP="iOS Developer @ Teknasyon"     \
+    DAILY_DRIVER="Linux"                       \
+    OPEN_TO_WORK="true"
+
+EXPOSE 4040
+
+CMD ["nuri", "--ship-it", "--then-improve-it"]
 ```
 
 ---
 
-### ⚡ What I Build
-
 ```
-📱 Mobile Apps       ██████████████████████░░  90%   Flutter · iOS · Swift
-🐳 DevOps            ████████████████████░░░░  80%   Docker · K8s · ArgoCD
-🔧 Backend           █████████████████░░░░░░░  70%   Node.js · Supabase · Firebase
-🤖 AI Integration    ████████████████░░░░░░░░  65%   GPT-4o · Vision API
+$ kubectl describe pod nuri-okumus
+──────────────────────────────────────────────
+Name:       nuri-okumus
+Namespace:  software-engineering
+Node:       mugla / turkey
+Status:     Running ✅
+
+Labels:
+  role=mobile+devops+cloud
+  internship=iOS@Teknasyon
+  available-for=freelance
+
+Containers:
+  developer:
+    Image:   nuri:latest
+    Port:    open-to-opportunities
+
+    Skills:
+      📱 Mobile Apps   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  90%
+      🐳 DevOps        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  80%
+      🔧 Backend       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  70%
+      🤖 AI            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  65%
+
+    Limits:
+      creativity: unlimited
+      coffee:     ∞
+
+Events:
+  Currently building → IDP (K3s + ArgoCD + Docker)
+  Motto            → "Ship it, then improve it."
+──────────────────────────────────────────────
 ```
 
 ---
