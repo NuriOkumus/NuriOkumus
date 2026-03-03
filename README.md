@@ -15,6 +15,10 @@
 
   <img src="https://streak-stats.demolab.com?user=NuriOkumus&theme=tokyonight&hide_border=true" />
 
+  <br><br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=NuriOkumus&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+
 </div>
 
 ---
@@ -24,6 +28,7 @@ name: Nuri Okumuş
 role: Software Engineering Student @ MSKÜ
 location: Muğla, Turkey
 internship: iOS Developer @ Teknasyon
+currently_building: IDP — Internal Developer Platform (K3s + ArgoCD)
 interests: [Mobile Apps, DevOps, Cloud, Open Source]
 daily_driver: Linux 🐧
 motto: "Ship it, then improve it."
@@ -101,6 +106,18 @@ motto: "Ship it, then improve it."
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NuriOkumus&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NuriOkumus/NuriOkumus/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NuriOkumus/NuriOkumus/output/snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/NuriOkumus/NuriOkumus/output/snake.svg" />
+  </picture>
 </div>
 
 ---
