@@ -48,7 +48,7 @@ CMD ["nuri", "--ship-it", "--then-improve-it"]
 ```
 
 <details>
-<summary><code>▶ docker run nuri:latest</code></summary>
+<summary>👉 &nbsp;<strong>Teknik değil misin? Buraya tıkla →</strong> &nbsp;<code>docker run nuri:latest</code></summary>
 <br>
 
 | | |
@@ -68,19 +68,39 @@ CMD ["nuri", "--ship-it", "--then-improve-it"]
 ```
 $ kubectl describe pod nuri-okumus
 ──────────────────────────────────────────────
-Name:       nuri-okumus          Status: Running ✅
-Node:       mugla/turkey         Port:   open-to-opportunities
-Labels:     mobile · devops · cloud · available-for-freelance
-──────────────────────────────────────────────
-  📱 Mobile Apps   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  90%
-  🐳 DevOps        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  80%
-  🔧 Backend       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  70%
-  🤖 AI            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  65%
+Name:         nuri-okumus
+Namespace:    software-engineering
+Node:         mugla / turkey
+Status:       Running ✅
+
+Labels:
+  role=mobile+devops+cloud
+  internship=iOS@Teknasyon
+  available-for=freelance
+
+Containers:
+  developer:
+    Image:    nuri:latest
+    Port:     open-to-opportunities
+
+    Skills:
+      📱 Mobile Apps   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  90%
+      🐳 DevOps        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  80%
+      🔧 Backend       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  70%
+      🤖 AI            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  65%
+
+    Limits:
+      creativity: unlimited
+      coffee:     ∞
+
+Events:
+  Currently building → IDP (K3s + ArgoCD + Docker)
+  Motto            → "Ship it, then improve it."
 ──────────────────────────────────────────────
 ```
 
 <details>
-<summary><code>▶ kubectl get pod nuri-okumus -o wide</code></summary>
+<summary>👉 &nbsp;<strong>Teknik değil misin? Buraya tıkla →</strong> &nbsp;<code>kubectl get pod nuri-okumus -o wide</code></summary>
 <br>
 
 | Skill | Level | Stack |
