@@ -20,6 +20,8 @@
 
 ---
 
+### 🐳 Dockerfile
+
 ```dockerfile
 FROM human:latest
 
@@ -64,6 +66,8 @@ CMD ["nuri", "--ship-it", "--then-improve-it"]
 </details>
 
 ---
+
+### ☸️ kubectl describe
 
 ```
 $ kubectl describe pod nuri-okumus
@@ -166,14 +170,6 @@ Events:
 </td>
 </tr>
 </table>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NuriOkumus&theme=tokyo-night&hide_border=true&area=true" />
-</div>
 
 ---
 
