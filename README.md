@@ -121,11 +121,11 @@ Events:
 ### 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,swift,python,js,nodejs" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,swift,xcode,js,nodejs" />
   <br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,firebase,git,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,git,linux,nginx" />
   <br>
-  <img src="https://skillicons.dev/icons?i=figma,vscode,github,nginx,supabase,cpp" />
+  <img src="https://skillicons.dev/icons?i=postgres,firebase,supabase,figma,vscode,github" />
 </div>
 
 ---
@@ -163,9 +163,9 @@ Events:
 <td width="50%">
 
 **🎓 IDP — Internal Developer Platform**
-> Built with K3s + ArgoCD + Docker
+> Built with K3s · ArgoCD · Backstage · Python · LangChain
 >
-> Self-service platform for student developers with Kubernetes orchestration.
+> Hybrid Wasm + Docker platform for a university DevOps lab. GitOps with ArgoCD, security policies via Kubewarden, AI self-healing agent with LangChain, and GreenOps carbon monitoring via Kepler.
 
 </td>
 </tr>
