@@ -1,55 +1,107 @@
-<h1 align="center">Hi 👋, I'm Nuri Okumuş</h1>
-<h3 align="center">Software Engineer | Mobile, DevOps & Cloud Enthusiast</h3>
 
-<p align="center">
-  <a href="https://bionluk.com/nuriokumus_m" target="_blank">
-    <img src="https://img.shields.io/badge/Freelance-Bionluk-1abc9c?style=for-the-badge&logo=freelancer&logoColor=white" alt="Bionluk Profile">
-  </a>
-  <a href="https://linkedin.com/in/nuri-okumus" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-  </a>
-</p>
+```
+ ╔══════════════════════════════════════════════════════════════╗
+ ║                                                              ║
+ ║   █▄░█ █░█ █▀█ █   █▀█ █▄▀ █░█ █▀▄▀█ █░█ █▀               ║
+ ║   █░▀█ █▄█ █▀▄ █   █▄█ █░█ █▄█ █░▀░█ █▄█ ▄█               ║
+ ║                                                              ║
+ ║           Software Engineer · Freelancer · Builder            ║
+ ║                                                              ║
+ ╚══════════════════════════════════════════════════════════════╝
+```
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/NuriOkumus/NuriOkumus/main/developer-illustration.svg" alt="Developer Illustration" />
-
-- 📱 Experienced in **Flutter & iOS (Swift)** development, building cross-platform and native mobile applications.
-- ⚙️ Skilled in **Docker, Kubernetes (K3s), and CI/CD** pipelines for cloud-native infrastructure automation.
-- 💻 Passionate about **DevOps practices**, building self-service developer platforms and scalable backends.
-- 🎓 Software Engineering at **Muğla Sıtkı Koçman University**.
-- 🌱 Always learning: Currently exploring advanced cloud architectures and platform engineering.
-- 📫 How to reach me: **okumusn2@gmail.com**
-
-### 🛠️ Tech Stack & Tools
-
-**Mobile Development**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-</p>
-
-**Backend & Database**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-</p>
-
-**DevOps & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/ArgoCD-ef7b4d?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/nuri-okumus"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://bionluk.com/nuriokumus_m"><img src="https://img.shields.io/badge/-Hire_Me-1abc9c?style=flat-square&logo=freelancer&logoColor=white"></a>
+  <a href="mailto:okumusn2@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=NuriOkumus&style=flat-square&color=blueviolet" alt="Profile Views">
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NuriOkumus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nuri's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuriOkumus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+```yaml
+name: Nuri Okumuş
+role: Software Engineering Student @ MSKÜ
+location: Muğla, Turkey
+internship: iOS Developer @ Teknasyon
+interests: [Mobile Apps, DevOps, Cloud, Open Source]
+daily_driver: Linux 🐧
+motto: "Ship it, then improve it."
+```
+
+---
+
+### ⚡ What I Build
+
+```
+📱 Mobile Apps       ██████████████████████░░  90%   Flutter · iOS · Swift
+🐳 DevOps            ████████████████████░░░░  80%   Docker · K8s · ArgoCD
+🔧 Backend           █████████████████░░░░░░░  70%   Node.js · Supabase · Firebase
+🤖 AI Integration    ████████████████░░░░░░░░  65%   GPT-4o · Vision API
+```
+
+---
+
+### 🏗️ Projects I'm Proud Of
+
+<table>
+<tr>
+<td width="50%">
+
+**✅ Rituals — AI Habit Tracker**
+> Built with Flutter + Node.js + GPT-4o
+>
+> AI generates personalized daily routines. Track streaks, build habits.
+
+</td>
+<td width="50%">
+
+**☕ Caffeverse — Coffee Price Finder**
+> Built with Flutter + Firebase + Maps
+>
+> Compare coffee prices at nearby cafes. Find the best deal around you.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📱 QR Menu — Digital Menu System**
+> Built with Flutter + Supabase
+>
+> Restaurants create digital menus. Customers scan QR to browse.
+
+</td>
+<td width="50%">
+
+**🎓 IDP — Internal Developer Platform**
+> Built with K3s + ArgoCD + Docker
+>
+> Self-service platform for student developers with Kubernetes orchestration.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧰 Toolbox
+
+| Category | Technologies |
+|:---|:---|
+| **Languages** | `Dart` `Swift` `Python` `JavaScript` `C++` `SQL` |
+| **Mobile** | `Flutter` `iOS (UIKit/SwiftUI)` `Firebase` `Supabase` |
+| **Backend** | `Node.js` `Express` `PostgreSQL` `REST API` |
+| **DevOps** | `Docker` `Kubernetes` `ArgoCD` `Helm` `Nginx` `CI/CD` |
+| **Tools** | `Git` `Linux` `LaTeX` `Figma` `VS Code` |
+
+---
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NuriOkumus&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuriOkumus&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
+</div>
+
+<div align="center">
+  <sub>💼 Open for freelance work — <a href="https://bionluk.com/nuriokumus_m">hire me on Bionluk</a></sub>
+</div>
