@@ -3,14 +3,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=NURI+OKUMU%C5%9E;Software+Engineer;Freelancer+%7C+Builder" alt="Typing SVG" />
   <br>
   <sub>Mobile · DevOps · Cloud</sub>
-</div>
+  <br><br>
 
-<div align="center">
   <a href="https://nuriokumus.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"></a>
   <a href="https://linkedin.com/in/nuri-okumus"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://bionluk.com/nuriokumus"><img src="https://img.shields.io/badge/-Hire_Me-1abc9c?style=flat-square&logo=freelancer&logoColor=white"></a>
   <a href="mailto:nuriokmus@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=NuriOkumus&style=flat-square&color=blueviolet" alt="Profile Views">
+
+  <br><br>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NuriOkumus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=NuriOkumus&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
@@ -35,6 +40,18 @@ motto: "Ship it, then improve it."
 🔧 Backend           █████████████████░░░░░░░  70%   Node.js · Supabase · Firebase
 🤖 AI Integration    ████████████████░░░░░░░░  65%   GPT-4o · Vision API
 ```
+
+---
+
+### 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,swift,python,js,nodejs" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,firebase,git,linux" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,github,nginx,supabase,cpp" />
+</div>
 
 ---
 
@@ -81,18 +98,21 @@ motto: "Ship it, then improve it."
 
 ---
 
-### 🧰 Toolbox
+### 📊 Most Used Languages
 
-| Category | Technologies |
-|:---|:---|
-| **Languages** | `Dart` `Swift` `Python` `JavaScript` `C++` `SQL` |
-| **Mobile** | `Flutter` `iOS (UIKit/SwiftUI)` `Firebase` `Supabase` |
-| **Backend** | `Node.js` `Express` `PostgreSQL` `REST API` |
-| **DevOps** | `Docker` `Kubernetes` `ArgoCD` `Helm` `Nginx` `CI/CD` |
-| **Tools** | `Git` `Linux` `LaTeX` `Figma` `VS Code` |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuriOkumus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
 ---
 
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NuriOkumus&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
 
 <div align="center">
   <sub>💼 Open for freelance work — <a href="https://bionluk.com/nuriokumus">hire me on Bionluk</a></sub>
