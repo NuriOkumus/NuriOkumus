@@ -1,14 +1,9 @@
 
-```
- ╔══════════════════════════════════════════════════════════════╗
- ║                                                              ║
- ║   █▄░█ █░█ █▀█ █   █▀█ █▄▀ █░█ █▀▄▀█ █░█ █▀                  ║
- ║   █░▀█ █▄█ █▀▄ █   █▄█ █░█ █▄█ █░▀░█ █▄█ ▄█                  ║
- ║                                                              ║
- ║           Software Engineer · Freelancer · Builder           ║
- ║                                                              ║
- ╚══════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=NURI+OKUMU%C5%9E;Software+Engineer;Freelancer+%7C+Builder" alt="Typing SVG" />
+  <br>
+  <sub>Mobile · DevOps · Cloud</sub>
+</div>
 
 <div align="center">
   <a href="https://nuriokumus.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"></a>
@@ -98,10 +93,6 @@ motto: "Ship it, then improve it."
 
 ---
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NuriOkumus&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuriOkumus&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
-</div>
 
 <div align="center">
   <sub>💼 Open for freelance work — <a href="https://bionluk.com/nuriokumus">hire me on Bionluk</a></sub>
