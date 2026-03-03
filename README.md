@@ -50,7 +50,7 @@ CMD ["nuri", "--ship-it", "--then-improve-it"]
 ```
 
 <details>
-<summary>🌐 &nbsp;<strong>Human-readable output →</strong> &nbsp;<code>docker run nuri:latest</code></summary>
+<summary><kbd>▶ &nbsp;docker run nuri:latest</kbd></summary>
 <br>
 
 | | |
@@ -104,7 +104,7 @@ Events:
 ```
 
 <details>
-<summary>🌐 &nbsp;<strong>Human-readable output →</strong> &nbsp;<code>kubectl get pod nuri-okumus -o wide</code></summary>
+<summary><kbd>▶ &nbsp;kubectl get pod nuri-okumus -o wide</kbd></summary>
 <br>
 
 | Skill | Level | Stack |
