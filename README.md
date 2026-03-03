@@ -11,8 +11,9 @@
 ```
 
 <div align="center">
+  <a href="https://nuriokumus.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"></a>
   <a href="https://linkedin.com/in/nuri-okumus"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://bionluk.com/nuriokumus_m"><img src="https://img.shields.io/badge/-Hire_Me-1abc9c?style=flat-square&logo=freelancer&logoColor=white"></a>
+  <a href="https://bionluk.com/nuriokumus"><img src="https://img.shields.io/badge/-Hire_Me-1abc9c?style=flat-square&logo=freelancer&logoColor=white"></a>
   <a href="mailto:okumusn2@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=NuriOkumus&style=flat-square&color=blueviolet" alt="Profile Views">
 </div>
@@ -103,5 +104,5 @@ motto: "Ship it, then improve it."
 </div>
 
 <div align="center">
-  <sub>💼 Open for freelance work — <a href="https://bionluk.com/nuriokumus_m">hire me on Bionluk</a></sub>
+  <sub>💼 Open for freelance work — <a href="https://bionluk.com/nuriokumus">hire me on Bionluk</a></sub>
 </div>
