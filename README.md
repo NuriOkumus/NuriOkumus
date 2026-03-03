@@ -13,8 +13,7 @@
 
   <br><br>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NuriOkumus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=NuriOkumus&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NuriOkumus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 
 </div>
 
@@ -95,14 +94,6 @@ motto: "Ship it, then improve it."
 </td>
 </tr>
 </table>
-
----
-
-### 📊 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuriOkumus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
 
 ---
 
